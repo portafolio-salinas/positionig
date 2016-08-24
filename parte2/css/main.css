@@ -1,1 +1,21 @@
-/* Pon tu código css aqui */
+body {
+	margin: 0;
+	padding: 0;
+}
+.caja {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 500px;
+	
+}
+.red {
+	background: #FB0707;
+}
+.yellow {
+	background: #F3F615;
+
+}
+.green {
+	background: #048907;
+}/* Pon tu código css aqui */
